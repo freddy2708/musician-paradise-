@@ -1,0 +1,6 @@
+{
+  "name": "SlidePraise - Time-Synced Music Lyrics & Worship Slides",
+  "description": "Create, sync, and present time-synchronized music lyrics on dynamic presentation slides with live playback, tap-to-sync, dual-screen projector, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
